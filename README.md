@@ -11,3 +11,5 @@ A new world!
 I know what had happened!
 git is not complicated
 git works in windows
+git works in ubantu
+
